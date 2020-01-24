@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SplashAndOnBoarding</string>
+    <string name="chef_title">Chef</string>
+    <string name="chef_description">We have the best chef in town who made coffees for you</string>
+    <string name="dineIn_title">Dine In</string>
+    <string name="dineIn_description01">Come in buddy.Taste our coffee and tell us what we have special</string>
+    <string name="payment_title">Payment</string>
+    <string name="payment_description04">You can pay us via cash or any credit card or debit card</string>
+</resources>
